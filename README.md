@@ -1,4 +1,4 @@
-# h5ai v0.8 &#160; · &#160; a beautified Apache index
+# h5ai v0.8 &#160; · &#160; a beautified Cherokee index ;)
 
 
 ## Screenshots
@@ -22,10 +22,7 @@ View a [sample folder](http://larsjung.de/h5ai/sample)
 
 Everything you need is located in folder `target`.
 
-* Copy folder `h5ai` to the web-root directory of your server or alternativly set an alias `/h5ai/` to
-  this folder.
-* Add the content of file `dot.htaccess` to the `.htaccess` file inside the directory you want to be
-  styled (you might have to create this file). This directory and any subdirectories will be styled by h5ai.
+* Copy folder `h5ai` to the cherokee themes directory (share/cherokee/themes).
 * Adjust `options.js` inside the `h5ai` folder to your needs. Defaults will be fine for a start.
 
 Optionally add `h5ai.header.html` and/or `h5ai.footer.html` files to any of the styled folders to [display
